@@ -8,7 +8,7 @@ layout: default
 ![SURFsara logo](/images/SURFsara_logo.png)
 </div>
 
-This is part A of the [HPC Cloud tutorials](.) and covers the following topics:
+This is part B of the [HPC Cloud tutorials](.) and covers the following topics:
 
 1. [Persistence](#persistence)
 2. [Scale up to a multicore VM](#scale-up-to-a-multicore-vm)
